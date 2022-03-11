@@ -5,7 +5,7 @@ My plans in coding for the future:
 - Create a cross-platform, powerful and easy-to-use (2D) game engine in C++
 - .. maybe something more (that list may be extend later)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMeCodes&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMeCodes&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  ___
 ### Where you can find me:
 
