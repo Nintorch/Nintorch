@@ -5,7 +5,7 @@ I'm mostly a Python/C++/C# developer.
  ___
 ### Where you can find me:
 
-[![image](https://user-images.githubusercontent.com/92302738/157298535-719323f0-30f3-4428-b250-e9647bffd324.png)](https://gamejolt.com/@ThatsJustMe)
+[![image](https://user-images.githubusercontent.com/92302738/157298535-719323f0-30f3-4428-b250-e9647bffd324.png)](https://gamejolt.com/@Nintorch)
 
 <!---
 JustMeCodes/JustMeCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
