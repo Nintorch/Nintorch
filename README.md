@@ -1,7 +1,7 @@
 ### Hi, I'm Nintorch
 I'm mostly a Python/C++/C# developer.
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nintorch&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nintorch&langs_count=10&layout=compact&theme=dark&exclude_repo=GMoM-disassembly)](https://github.com/anuraghazra/github-readme-stats)
  ___
 ### Where you can find me:
 
