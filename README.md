@@ -1,9 +1,14 @@
 ### Hi, I'm Nintorch
-I'm mostly a Python/C++/C# developer.
+I'm a 19 years old programmer that likes to try new things and technologies!
 
+I'm mostly a Python/C++/C# developer but I also can code in other programming languages
+such as C or Kotlin.
+
+I can speak English, Russian and I'm currently learning French.
+ ___
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nintorch&langs_count=10&layout=compact&theme=dark&exclude_repo=GMoM-disassembly)](https://github.com/anuraghazra/github-readme-stats)
  ___
-### Where you can find me:
+### Other places where you can find me:
 
 [![image](https://user-images.githubusercontent.com/92302738/157298535-719323f0-30f3-4428-b250-e9647bffd324.png)](https://gamejolt.com/@Nintorch)
 
