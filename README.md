@@ -1,5 +1,5 @@
 ### Hi, I'm Nintorch
-I'm a 19 years old programmer that likes to try new things and technologies!
+I'm a 20 years old programmer that likes to try new things and technologies!
 
 I'm mostly a Python/C++/C# developer but I also can code in other programming languages
 such as C or Kotlin.
