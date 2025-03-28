@@ -4,7 +4,7 @@ I'm a 20 years old programmer that likes to try new things and technologies!
 I'm mostly a Python/C++/C# developer but I also can code in other programming languages
 such as C or Kotlin.
 
-I can speak English and Russian.
+I can speak Russian and English.
  ___
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nintorch&langs_count=10&layout=compact&theme=dark&exclude_repo=GMoM-disassembly)](https://github.com/anuraghazra/github-readme-stats)
  ___
